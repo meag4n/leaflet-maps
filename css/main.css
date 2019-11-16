@@ -1,0 +1,25 @@
+#mapid2 {
+    height: 500px;
+    max-width: 660px;
+    margin: auto;
+    text-align: center;
+    }
+#bio {
+    font-size: 30px;
+}
+h1 {
+    font-family: 'Alata', sans-serif;
+}
+h1, h3 {
+  font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  max-width: 650px;
+  margin: auto;
+}
+body {
+    margin: 50px;
+}
